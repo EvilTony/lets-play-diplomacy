@@ -1,0 +1,27 @@
+{
+  "name": "lets-play-diplomacy",
+  "version": "0.0.0",
+  "authors": [
+    "Taylor1791 <Taylor@Everding.email>"
+  ],
+  "description": "friends first and lies to come",
+  "main": "index.js",
+  "keywords": [
+    "diplomacy"
+  ],
+  "license": "proprietary",
+  "homepage": "https://github.com/taylor1791/lets-play-diplomacyproprietary",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "ramda": "~0.8.0",
+    "d3": "~3.4.13",
+    "mithril": "~0.1.24"
+  }
+}
