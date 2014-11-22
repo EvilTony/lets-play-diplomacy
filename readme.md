@@ -49,3 +49,6 @@ References
  * http://www.jasondavies.com/animated-bezier/
  * http://bl.ocks.org/mbostock/2206590
 
+### Font
+
+ * http://practicaltypography.com/triplicate.html
