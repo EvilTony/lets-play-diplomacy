@@ -13,14 +13,39 @@ Getting Started
 References
 ----------
 
-Here are some references for Taylor
+### Web games
+
+ * Diplomacy.ca
+ * The DPjudge
+ * Diplomaticcorp
+ * Backstabbr
+ * BOUNCED
+ * webDiplomacy
+ * vDiplomacy
+ * Stabbeurfou
+ * PLAYdiplomacy
+ * Conquest of Nations
+ * Diplomacy by deNes
+ * DipGame.org
+ * Droidippy
+
+## Software
+
+ * http://sourceforge.net/projects/jdip/
+
+### Adjudication Algorithm
+
+ * http://www.floc.net/dpjudge/?page=Algorithm
+
+### Maps
+
+ * http://www.diplom.org/Online/maps/map_c.gif
+ * http://www.diplom.org/Online/maps/LargeDipColor.gif
+ * http://www.variantbank.org/results/rules/o/original.gif
+ * http://s13.postimg.org/3o0g1yqsn/winter_1900.png
+
+### Others
 
  * http://www.jasondavies.com/animated-bezier/
  * http://bl.ocks.org/mbostock/2206590
- * http://s13.postimg.org/3o0g1yqsn/winter_1900.png
- * http://www.diplom.org/Online/maps/map_c.gif
- * http://www.variantbank.org/results/rules/o/original.gif
- * http://webdiplomacy.net/
- * http://www.playdiplomacy.com/
- * http://www.backstabbr.com/
 
