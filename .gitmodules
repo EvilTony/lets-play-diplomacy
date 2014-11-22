@@ -1,0 +1,3 @@
+[submodule "Front-End-Workflow"]
+	path = Front-End-Workflow
+	url = git@github.com:taylor1791/Front-End-Workflow.git
