@@ -6,9 +6,27 @@ This is a diplomacy app. If you don't like it complain to me.
 Getting Started
 ---------------
 
+    $ git submodule init
     $ npm install
-    $ bower install
-    $ gulp dev
+
+Workflow
+-------
+
+I am still working on getting the front-end-workflow to install its packages
+in the correct spot. If you want to successfully use the workflow.
+
+    $ cd front-end-workflow
+    $ npm install
+    $ rm -rf node_modules/gulp
+    $ mv node_modules/* ../node_modules/
+    $ rm -rf node_modules
+
+Because of the way that node resolved node packages. There cannot be a
+node_modules directory in front-end-workflow.
+
+### Tasks
+
+TODO
 
 References
 ----------
