@@ -1,0 +1,18 @@
+svg {
+  fill: none;
+  pointer-events: fill;
+}
+
+svg {
+  > path {
+    stroke: @content;
+    fill: @secondary;
+
+    &.water {
+      fill: @hprimary;
+    }
+    &.unpassable {
+      fill: @content;
+    }
+  }
+}

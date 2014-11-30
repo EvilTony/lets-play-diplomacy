@@ -1,0 +1,78 @@
+html {
+  box-sizing: border-box;
+}
+
+*, *:before, *:after {
+  box-sizing: inherit;
+}
+
+body {
+  background-color: @neutral;
+  color: @content;
+  font-family: 'equity-text-b';
+  font-size: 21px;
+  line-height: 1.30;
+  margin-bottom: 200px;
+  text-rendering: optimizeLegibility;
+}
+
+::selection {
+  background-color: @warning;
+  color: @neutral;
+}
+
+h1, h2, h3 {
+  font-family: 'concourse-t3';
+  font-weight: bold;
+  margin: 0.67em 0;
+  text-transform: capitalize;
+}
+
+h4, h5, h6 {
+  font-family: 'concourse-c4';
+  letter-spacing: 0.1em;
+  margin: 0.67em 0;
+}
+
+header {
+  background-color: @primary;
+  min-height: 60px;
+  position: fixed;
+  top: 0;
+  width: 100%;
+}
+
+aside {
+  background-color: @primary;
+  bottom: 0;
+  min-height: 60px;
+  position:fixed;
+  width: 100%;
+}
+
+main {
+  margin-top: 60px;
+}
+
+
+
+
+//.font1 { font-family: 'equity-text-b'; }
+//.font2 { font-family: 'equity-text-b'; font-weight: bold; }
+//.font3 { font-family: 'equity-text-b'; font-style: italic; }
+//.font4 { font-family: 'equity-text-b'; font-style: italic; font-weight: bold }
+//.font5 { font-family: 'equity-caps-b'; }
+//.font6 { font-family: 'equity-caps-b'; font-weight: bold;}
+//.font7 { font-family: 'concourse-t2'; }
+//.font8 { font-family: 'concourse-t2'; font-style: italic; }
+//.font9 { font-family: 'concourse-t3'; }
+//.font10 { font-family: 'concourse-t3'; font-style: italic; }
+//.font11 { font-family: 'concourse-t3'; font-weight: bold; }
+//.font12 { font-family: 'concourse-t3'; font-weight: bold; font-style: italic;}
+//.font13 { font-family: 'concourse-t3-index'; }
+//.font14 { font-family: 'concourse-c4'; }
+//.font15 { font-family: 'concourse-t7'; }
+//.font16 { font-family: 'triplicate'; }
+//.font17 { font-family: 'triplicate'; font-weight: bold; }
+//.font18 { font-family: 'triplicate'; font-style: italic;}
+//.font19 { font-family: 'triplicate-code'; }
