@@ -50,6 +50,7 @@ References
 ## Software
 
  * http://sourceforge.net/projects/jdip/
+ * https://github.com/zond/godip
 
 ### Adjudication Algorithm
 
@@ -70,3 +71,4 @@ References
 ### Font
 
  * http://practicaltypography.com/triplicate.html
+ * http://practicaltypography.com/equity.html
