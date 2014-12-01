@@ -8,6 +8,7 @@ files.serve = [
   'client',
   'node_modules/d3',
   'node_modules/less/dist',
+  'node_modules/mithril',
   'node_modules/normalize.css',
   'node_modules/ramda'
 ];

@@ -21,6 +21,7 @@
   ],
   "dependencies": {
     "d3": "~3.4.13",
+    "mithril": "^0.1.25",
     "normalize.css": "^3.0.2",
     "ramda": "~0.8.0"
   },
