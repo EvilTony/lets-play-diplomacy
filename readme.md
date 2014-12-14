@@ -55,6 +55,7 @@ References
 ### Adjudication Algorithm
 
  * http://www.floc.net/dpjudge/?page=Algorithm
+ * http://www.diplom.org/Zine/S2009M/Kruijswijk/DipMath_Chp1.htm
 
 ### Maps
 
@@ -72,3 +73,5 @@ References
 
  * http://practicaltypography.com/triplicate.html
  * http://practicaltypography.com/equity.html
+
+### 
