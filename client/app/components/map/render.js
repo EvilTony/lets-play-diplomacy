@@ -5,15 +5,20 @@ d3.json( '/app/components/map/map-data.json', function( err, rawBoard ) {
   }
 
   var
-    width = 550,
-    height = 550,
+    _,
+    rows = 21,
+    columns = 21,
+    scale = 26,
+    width = columns * scale,
+    height = rows * scale,
 
     projection = cart2dProjection()
-      .scale( R.repeatN( 26, 2 ) ),
+      .scale( R.repeatN( scale, 2 ) ),
     path = d3.geo.path()
       .projection( projection ),
 
     svg = d3.select( 'main' )
+      .attr( 'style', 'height:' + height + 'px' )
       .append( 'svg' )
       .attr( 'width', width )
       .attr( 'height', height ),
@@ -24,8 +29,27 @@ d3.json( '/app/components/map/map-data.json', function( err, rawBoard ) {
       .append( 'g' )
       .attr( 'class', 'labels' ),
 
-    labelX = R.compose( R.subtract( void( 0 ), 20 ), R.head, path.centroid ),
-    labelY = R.compose( R.add( 5 ), R.nth( 1 ), path.centroid ),
+    isWide = function( prov ) {
+      var
+        boundingBox = path.bounds( prov ),
+        height = boundingBox[0][0] - boundingBox[1][0],
+        width = boundingBox[0][1] - boundingBox[1][1];
+
+      return height > width;
+    },
+
+    labelX = function( prov ) {
+      return (
+        prov.labelDeltas[ 0 ] * columns +
+        R.head( path.centroid( prov ) )
+      );
+    },
+    labelY = function( prov ) {
+      return (
+        prov.labelDeltas[ 1 ] * rows +
+        prov.labelDeltas[ 1 ] + R.nth( 1, path.centroid( prov ) )
+      );
+    },
     labelText = R.prop( 'abbr' ),
 
     addAbbr = R.flip( R.assoc ( 'abbr' ) ),
@@ -54,6 +78,7 @@ d3.json( '/app/components/map/map-data.json', function( err, rawBoard ) {
       .attr( 'id', R.compose( R.concat( 'label-' ), R.prop( 'abbr' ) ) )
       .attr( 'x', labelX )
       .attr( 'y', labelY )
+      .attr( 'class', R.ifElse( isWide, R.always( 'wide' ), R.always( '' ) ) )
       .text( labelText );
 
 } );

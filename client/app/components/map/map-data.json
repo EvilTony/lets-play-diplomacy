@@ -3,465 +3,541 @@
     "name": "Bohemia",
     "supply-type": "land",
     "region": "austria",
-    "coordinates": [ [ [ 9, 11 ], [ 13, 11 ], [ 13, 12 ], [ 9, 12 ], [ 9, 11 ] ] ]
+    "coordinates": [ [ [ 9, 11 ], [ 13, 11 ], [ 13, 12 ], [ 9, 12 ], [ 9, 11 ] ] ],
+    "labelDeltas": [ 0, 0 ]
   },
   "bud": {
     "name": "Budapest",
     "supply-type": "austria",
     "region": "austria",
-    "coordinates": [ [ [ 12, 13 ], [ 15, 13 ], [ 15, 14 ], [ 12, 14 ], [ 12, 13 ] ] ]
+    "coordinates": [ [ [ 12, 13 ], [ 15, 13 ], [ 15, 14 ], [ 12, 14 ], [ 12, 13 ] ] ],
+    "labelDeltas": [ 0, 0 ]
   },
   "gal": {
     "name": "Galicia",
     "supply-type": "land",
     "region": "austria",
-    "coordinates": [ [ [ 13, 11 ], [ 15, 11 ], [ 15, 13 ], [ 13, 13 ], [ 13, 11 ] ] ]
+    "coordinates": [ [ [ 13, 11 ], [ 15, 11 ], [ 15, 13 ], [ 13, 13 ], [ 13, 11 ] ] ],
+    "labelDeltas": [ 0, 0 ]
   },
   "tri": {
     "name": "Trieste",
     "supply-type": "austria",
     "region": "austria",
-    "coordinates": [ [ [ 9, 13 ], [ 9, 16 ], [ 12, 16 ], [ 12, 13 ], [ 9, 13 ] ] ]
+    "coordinates": [ [ [ 9, 13 ], [ 9, 16 ], [ 12, 16 ], [ 12, 13 ], [ 9, 13 ] ] ],
+    "labelDeltas": [ 0, 0 ]
   },
   "tyr": {
     "name": "Tyrolia",
     "supply-type": "land",
     "region": "austria",
-    "coordinates": [ [ [ 7, 11 ], [ 9, 11 ], [ 9, 14 ], [ 7, 14 ], [ 7, 11 ] ] ]
+    "coordinates": [ [ [ 7, 11 ], [ 9, 11 ], [ 9, 14 ], [ 7, 14 ], [ 7, 11 ] ] ],
+    "labelDeltas": [ 0, 0 ]
   },
   "vie": {
     "name": "Vienna",
     "supply-type": "austria",
     "region": "austria",
-    "coordinates": [ [ [ 9, 12 ], [ 13, 12 ], [ 13, 13 ], [ 9, 13 ], [ 9, 12 ] ] ]
+    "coordinates": [ [ [ 9, 12 ], [ 13, 12 ], [ 13, 13 ], [ 9, 13 ], [ 9, 12 ] ] ],
+    "labelDeltas": [ 0, 0 ]
   },
 
   "cly": {
     "name": "Clyde",
     "supply-type": "land",
     "region": "england",
-    "coordinates": [ [ [ 2, 1 ], [ 4, 1 ], [ 4, 2 ], [ 2, 2 ], [ 2, 1 ] ] ]
+    "coordinates": [ [ [ 2, 1 ], [ 4, 1 ], [ 4, 2 ], [ 2, 2 ], [ 2, 1 ] ] ],
+    "labelDeltas": [ 0, 0 ]
   },
   "edi": {
     "name": "Edinburgh",
     "supply-type": "england",
     "region": "england",
-    "coordinates": [ [ [ 4, 1 ], [ 5, 1 ], [ 5, 3 ], [ 4, 3 ], [ 4, 1 ] ] ]
+    "coordinates": [ [ [ 4, 1 ], [ 5, 1 ], [ 5, 3 ], [ 4, 3 ], [ 4, 1 ] ] ],
+    "labelDeltas": [ 0, 0 ]
   },
   "lvp": {
     "name": "Liverpool",
     "supply-type": "england",
     "region": "england",
-    "coordinates": [ [ [ 3, 2 ], [ 4, 2 ], [ 4, 4 ], [ 3, 4 ], [ 3, 2 ] ] ]
+    "coordinates": [ [ [ 3, 2 ], [ 4, 2 ], [ 4, 4 ], [ 3, 4 ], [ 3, 2 ] ] ],
+    "labelDeltas": [ 0, 0 ]
   },
   "lon": {
     "name": "London",
     "supply-type": "england",
     "region": "england",
-    "coordinates": [ [ [ 3, 4 ], [ 4, 4 ], [ 4, 6 ], [ 3, 6 ], [ 3, 4 ] ] ]
+    "coordinates": [ [ [ 3, 4 ], [ 4, 4 ], [ 4, 6 ], [ 3, 6 ], [ 3, 4 ] ] ],
+    "labelDeltas": [ 0, 0 ]
   },
   "wal": {
     "name": "Wales",
     "supply-type": "land",
     "region": "england",
-    "coordinates": [ [ [ 4, 5 ], [ 6, 5 ], [ 6, 6 ], [ 4, 6 ], [ 4, 5 ] ] ]
+    "coordinates": [ [ [ 4, 5 ], [ 6, 5 ], [ 6, 6 ], [ 4, 6 ], [ 4, 5 ] ] ],
+    "labelDeltas": [ 0, 0 ]
   },
   "yor": {
     "name": "Yorkshire",
     "supply-type": "land",
     "region": "england",
-    "coordinates": [ [ [ 4, 3 ], [ 5, 3 ], [ 5, 5 ], [ 4, 5 ], [ 4, 3 ] ] ]
+    "coordinates": [ [ [ 4, 3 ], [ 5, 3 ], [ 5, 5 ], [ 4, 5 ], [ 4, 3 ] ] ],
+    "labelDeltas": [ 0, 0 ]
   },
 
   "bre": {
     "name": "Brest",
     "supply-type": "france",
     "region": "france",
-    "coordinates": [ [ [ 1, 8 ], [ 2, 8 ], [ 2, 10 ], [ 1, 10 ], [ 1, 8 ] ] ]
+    "coordinates": [ [ [ 1, 8 ], [ 2, 8 ], [ 2, 10 ], [ 1, 10 ], [ 1, 8 ] ] ],
+    "labelDeltas": [ 0, 0 ]
   },
   "bur": {
     "name": "Burgundy",
     "supply-type": "land",
     "region": "france",
-    "coordinates": [ [ [ 4, 9 ], [ 6, 9 ], [ 6, 11 ], [ 4, 11 ], [ 4, 9 ] ] ]
+    "coordinates": [ [ [ 4, 9 ], [ 6, 9 ], [ 6, 11 ], [ 4, 11 ], [ 4, 9 ] ] ],
+    "labelDeltas": [ 0, 0 ]
   },
   "gas": {
     "name": "Gascony",
     "supply-type": "land",
     "region": "france",
-    "coordinates": [ [ [ 1, 10 ], [ 4, 10 ], [ 4, 12 ], [ 1, 12 ], [ 1, 10 ] ] ]
+    "coordinates": [ [ [ 1, 10 ], [ 4, 10 ], [ 4, 12 ], [ 1, 12 ], [ 1, 10 ] ] ],
+    "labelDeltas": [ 0, 0 ]
   },
   "mar": {
     "name": "Marseilles",
     "supply-type": "france",
     "region": "france",
-    "coordinates": [ [ [ 4, 11 ], [ 5, 11 ], [ 5, 14 ], [4, 14 ], [ 4, 11 ] ] ]
+    "coordinates": [ [ [ 4, 11 ], [ 5, 11 ], [ 5, 14 ], [4, 14 ], [ 4, 11 ] ] ],
+    "labelDeltas": [ 0, 0 ]
   },
   "par": {
     "name": "Paris",
     "supply-type": "france",
     "region": "france",
-    "coordinates": [ [ [ 2, 9 ], [ 4, 9 ], [ 4, 10 ], [ 2, 10 ], [ 2, 9 ] ] ]
+    "coordinates": [ [ [ 2, 9 ], [ 4, 9 ], [ 4, 10 ], [ 2, 10 ], [ 2, 9 ] ] ],
+    "labelDeltas": [ 0, 0 ]
   },
   "pic": {
     "name": "Picardy",
     "supply-type": "land",
     "region": "france",
-    "coordinates": [ [ [ 2, 8 ], [ 5, 8 ], [ 5, 9 ], [ 2, 9 ], [ 2, 8 ] ] ]
+    "coordinates": [ [ [ 2, 8 ], [ 5, 8 ], [ 5, 9 ], [ 2, 9 ], [ 2, 8 ] ] ],
+    "labelDeltas": [ 0, 0 ]
   },
 
   "ber": {
     "name": "Berlin",
     "supply-type": "germany",
     "region": "germany",
-    "coordinates": [ [ [ 11, 8 ], [ 13, 8 ], [ 13, 10 ], [ 11, 10 ], [ 11, 8 ] ] ]
+    "coordinates": [ [ [ 11, 8 ], [ 13, 8 ], [ 13, 10 ], [ 11, 10 ], [ 11, 8 ] ] ],
+    "labelDeltas": [ 0, 0 ]
   },
   "kie": {
     "name": "Kiel",
     "supply-type": "germany",
     "region": "germany",
-    "coordinates": [ [ [ 7, 8 ], [ 11, 8 ], [ 11, 10 ], [ 7, 10 ], [ 7, 8 ] ] ]
+    "coordinates": [ [ [ 7, 8 ], [ 11, 8 ], [ 11, 10 ], [ 7, 10 ], [ 7, 8 ] ] ],
+    "labelDeltas": [ 0, 0 ]
   },
   "mun": {
     "name": "Munich",
     "supply-type": "germany",
     "region": "germany",
-    "coordinates": [ [ [ 6, 10 ], [ 12, 10 ], [ 12, 11 ], [ 6, 11 ], [ 6, 10 ] ] ]
+    "coordinates": [ [ [ 6, 10 ], [ 12, 10 ], [ 12, 11 ], [ 6, 11 ], [ 6, 10 ] ] ],
+    "labelDeltas": [ 0, 0 ]
   },
   "pru": {
     "name": "Prussia",
     "supply-type": "land",
     "region": "germany",
-    "coordinates": [ [ [ 13, 8 ], [ 14, 8 ], [ 14, 10 ], [ 13, 10 ], [ 13, 8 ] ] ]
+    "coordinates": [ [ [ 13, 8 ], [ 14, 8 ], [ 14, 10 ], [ 13, 10 ], [ 13, 8 ] ] ],
+    "labelDeltas": [ 0, 0 ]
   },
   "ruh": {
     "name": "Ruhr",
     "supply-type": "land",
     "region": "germany",
-    "coordinates": [ [ [ 6, 8 ], [ 7, 8 ], [ 7, 10 ], [ 6, 10 ], [ 6, 8 ] ] ]
+    "coordinates": [ [ [ 6, 8 ], [ 7, 8 ], [ 7, 10 ], [ 6, 10 ], [ 6, 8 ] ] ],
+    "labelDeltas": [ 0, 0 ]
   },
   "sil": {
     "name": "Silesia",
     "supply-type": "land",
     "region": "germany",
-    "coordinates": [ [ [ 12, 10 ], [ 14, 10 ], [ 14, 11 ], [ 12, 11 ], [ 12, 10 ] ] ]
+    "coordinates": [ [ [ 12, 10 ], [ 14, 10 ], [ 14, 11 ], [ 12, 11 ], [ 12, 10 ] ] ],
+    "labelDeltas": [ 0, 0 ]
   },
 
   "apu": {
     "name": "Apulia",
     "supply-type": "land",
     "region": "italy",
-    "coordinates": [ [ [ 8, 17 ], [ 10, 17 ], [ 10, 19 ], [ 8, 19 ], [ 8, 17 ] ] ]
+    "coordinates": [ [ [ 8, 17 ], [ 10, 17 ], [ 10, 19 ], [ 8, 19 ], [ 8, 17 ] ] ],
+    "labelDeltas": [ 0, 0 ]
   },
   "nap": {
     "name": "Naples",
     "supply-type": "italy",
     "region": "italy",
-    "coordinates": [ [ [ 7, 19 ], [ 10, 19 ], [ 10, 20 ], [ 7, 20 ], [ 7, 19 ] ] ]
+    "coordinates": [ [ [ 7, 19 ], [ 10, 19 ], [ 10, 20 ], [ 7, 20 ], [ 7, 19 ] ] ],
+    "labelDeltas": [ 0, 0 ]
   },
   "pie": {
     "name": "Piedmont",
     "supply-type": "land",
     "region": "italy",
-    "coordinates": [ [ [ 5, 12 ], [ 7, 12 ], [ 7, 15 ], [ 5, 15 ], [ 5, 12 ] ] ]
+    "coordinates": [ [ [ 5, 12 ], [ 7, 12 ], [ 7, 15 ], [ 5, 15 ], [ 5, 12 ] ] ],
+    "labelDeltas": [ 0, 0 ]
   },
   "rom": {
     "name": "Rome",
     "supply-type": "italy",
     "region": "italy",
-    "coordinates": [ [ [ 7, 17 ], [ 8, 17 ], [ 8, 19 ], [ 7, 19 ], [ 7, 17 ] ] ]
+    "coordinates": [ [ [ 7, 17 ], [ 8, 17 ], [ 8, 19 ], [ 7, 19 ], [ 7, 17 ] ] ],
+    "labelDeltas": [ 0, 0 ]
   },
   "tus": {
     "name": "Tuscany",
     "supply-type": "land",
     "region": "italy",
-    "coordinates": [ [ [ 5, 15 ], [ 7, 15 ], [ 7, 18 ], [ 5, 18 ], [ 5, 15 ] ] ]
+    "coordinates": [ [ [ 5, 15 ], [ 7, 15 ], [ 7, 18 ], [ 5, 18 ], [ 5, 15 ] ] ],
+    "labelDeltas": [ 0, 0 ]
   },
   "ven": {
     "name": "Venice",
     "supply-type": "italy",
     "region": "italy",
-    "coordinates": [ [ [ 7, 14 ], [ 9, 14 ], [ 9, 17 ], [ 7, 17 ], [ 7, 14 ] ] ]
+    "coordinates": [ [ [ 7, 14 ], [ 9, 14 ], [ 9, 17 ], [ 7, 17 ], [ 7, 14 ] ] ],
+    "labelDeltas": [ 0, 0 ]
   },
 
   "fin": {
     "name": "Finaland",
     "supply-type": "land",
     "region": "russia",
-    "coordinates": [ [ [ 16, 4 ], [ 20, 4 ], [ 20, 6 ], [ 16, 6 ], [ 16, 4 ] ] ]
+    "coordinates": [ [ [ 16, 4 ], [ 20, 4 ], [ 20, 6 ], [ 16, 6 ], [ 16, 4 ] ] ],
+    "labelDeltas": [ 0, 0 ]
   },
   "lvn": {
     "name": "Livonia",
     "supply-type": "land",
     "region": "russia",
-    "coordinates": [ [ [ 14, 8 ], [ 20, 8 ], [ 20, 9 ], [ 14, 9 ], [ 14, 8 ] ] ]
+    "coordinates": [ [ [ 14, 8 ], [ 20, 8 ], [ 20, 9 ], [ 14, 9 ], [ 14, 8 ] ] ],
+    "labelDeltas": [ 0, 0 ]
   },
   "mos": {
     "name": "Moscow",
     "supply-type": "russia",
     "region": "russia",
-    "coordinates": [ [ [ 16, 9 ], [ 21, 9 ], [ 21, 11 ], [ 16, 11 ], [ 16, 9 ] ] ]
+    "coordinates": [ [ [ 16, 9 ], [ 21, 9 ], [ 21, 11 ], [ 16, 11 ], [ 16, 9 ] ] ],
+    "labelDeltas": [ 0, 0 ]
   },
   "sev": {
     "name": "Sevastopol",
     "supply-type": "russia",
     "region": "russia",
-    "coordinates": [ [ [ 17, 11 ], [ 21, 11 ], [ 21, 12 ], [ 17, 12 ], [ 17, 11 ] ] ]
+    "coordinates": [ [ [ 17, 11 ], [ 21, 11 ], [ 21, 12 ], [ 17, 12 ], [ 17, 11 ] ] ],
+    "labelDeltas": [ 0, 0 ]
   },
   "stp": {
     "name": "St. Petersburg",
     "supply-type": "russia",
     "region": "russia",
-    "coordinates": [ [ [ 20, 3 ], [ 21, 3 ], [ 21, 9 ], [ 20, 9 ], [ 20, 3 ] ] ]
+    "coordinates": [ [ [ 20, 3 ], [ 21, 3 ], [ 21, 9 ], [ 20, 9 ], [ 20, 3 ] ] ],
+    "labelDeltas": [ 0, 0 ]
   },
   "ukr": {
     "name": "Ukraine",
     "supply-type": "land",
     "region": "russia",
-    "coordinates": [ [ [ 15, 11 ], [ 17, 11 ], [ 17, 12 ], [ 15, 12 ], [ 15, 11 ] ] ]
+    "coordinates": [ [ [ 15, 11 ], [ 17, 11 ], [ 17, 12 ], [ 15, 12 ], [ 15, 11 ] ] ],
+    "labelDeltas": [ 0, 0 ]
   },
   "war": {
     "name": "Warsaw",
     "supply-type": "russia",
     "region": "russia",
-    "coordinates": [ [ [ 14, 9 ], [ 16, 9 ], [ 16, 11 ], [ 14, 11 ], [ 14, 9 ] ] ]
+    "coordinates": [ [ [ 14, 9 ], [ 16, 9 ], [ 16, 11 ], [ 14, 11 ], [ 14, 9 ] ] ],
+    "labelDeltas": [ 0, 0 ]
   },
 
   "ank": {
     "name": "Ankara",
     "supply-type": "turkey",
     "region": "turkey",
-    "coordinates": [ [ [ 19, 16 ], [ 20,16 ], [ 20, 18 ], [ 19, 18 ], [ 19, 16 ] ] ]
+    "coordinates": [ [ [ 19, 16 ], [ 20,16 ], [ 20, 18 ], [ 19, 18 ], [ 19, 16 ] ] ],
+    "labelDeltas": [ 0, 0 ]
   },
   "arm": {
     "name": "Armenia",
     "supply-type": "land",
     "region": "turkey",
-    "coordinates": [ [ [ 20, 12 ], [ 21, 12 ], [ 21, 19 ], [ 20, 19 ], [ 20, 12 ] ] ]
+    "coordinates": [ [ [ 20, 12 ], [ 21, 12 ], [ 21, 19 ], [ 20, 19 ], [ 20, 12 ] ] ],
+    "labelDeltas": [ 0, 0 ]
   },
   "con": {
     "name": "Constantinople",
     "supply-type": "turkey",
     "region": "turkey",
-    "coordinates": [ [ [ 18, 16 ], [ 19, 16 ], [ 19, 19 ], [ 18, 19 ], [ 18, 16 ] ] ]
+    "coordinates": [ [ [ 18, 16 ], [ 19, 16 ], [ 19, 19 ], [ 18, 19 ], [ 18, 16 ] ] ],
+    "labelDeltas": [ 0, 0 ]
   },
   "smy": {
     "name": "Smyrna",
     "supply-type": "turkey",
     "region": "turkey",
-    "coordinates": [ [ [ 19, 18 ], [ 20, 18 ], [ 20, 20 ], [ 19, 20 ], [ 19, 18 ] ] ]
+    "coordinates": [ [ [ 19, 18 ], [ 20, 18 ], [ 20, 20 ], [ 19, 20 ], [ 19, 18 ] ] ],
+    "labelDeltas": [ 0, 0 ]
   },
   "syr": {
     "name": "Syria",
     "supply-type": "land",
     "region": "turkey",
-    "coordinates": [ [ [ 20, 19 ], [ 21, 19 ], [ 21, 21 ], [ 20, 21 ], [ 20, 19 ] ] ]
+    "coordinates": [ [ [ 20, 19 ], [ 21, 19 ], [ 21, 21 ], [ 20, 21 ], [ 20, 19 ] ] ],
+    "labelDeltas": [ 0, 0 ]
   },
 
   "alb": {
     "name": "Albania",
     "supply-type": "land",
     "region": "balkans",
-    "coordinates": [ [ [ 11, 16 ], [ 13, 16 ], [ 13, 17 ], [ 11, 17 ], [ 11, 16 ] ] ]
+    "coordinates": [ [ [ 11, 16 ], [ 13, 16 ], [ 13, 17 ], [ 11, 17 ], [ 11, 16 ] ] ],
+    "labelDeltas": [ 0, 0 ]
   },
   "bel": {
     "name": "Belgium",
     "supply-type": "supply",
     "region": "benelus",
-    "coordinates": [ [ [ 5, 7 ], [ 6, 7 ], [ 6, 9 ], [ 5, 9 ], [ 5, 7 ] ] ]
+    "coordinates": [ [ [ 5, 7 ], [ 6, 7 ], [ 6, 9 ], [ 5, 9 ], [ 5, 7 ] ] ],
+    "labelDeltas": [ 0, 0 ]
   },
   "bul": {
     "name": "Bulgaria",
     "supply-type": "supply",
     "region": "balkans",
-    "coordinates": [ [ [ 15, 15 ], [ 18, 15 ], [ 18, 18 ], [ 15, 18 ], [ 15, 15 ] ] ]
+    "coordinates": [ [ [ 15, 15 ], [ 18, 15 ], [ 18, 18 ], [ 15, 18 ], [ 15, 15 ] ] ],
+    "labelDeltas": [ 0, 0 ]
   },
   "den": {
     "name": "Denmark",
     "supply-type": "supply",
     "region": "scandinavia",
-    "coordinates": [ [ [ 9, 5 ], [ 10, 5 ], [ 10, 8 ], [ 9, 8 ], [ 9, 5 ] ] ]
+    "coordinates": [ [ [ 9, 5 ], [ 10, 5 ], [ 10, 8 ], [ 9, 8 ], [ 9, 5 ] ] ],
+    "labelDeltas": [ 0, 0 ]
   },
   "gre": {
     "name": "Greece",
     "supply-type": "supply",
     "region": "balkans",
-    "coordinates": [ [ [ 13, 16 ], [ 15, 16 ], [ 15, 18 ], [ 13, 18 ], [ 13, 16 ] ] ]
+    "coordinates": [ [ [ 13, 16 ], [ 15, 16 ], [ 15, 18 ], [ 13, 18 ], [ 13, 16 ] ] ],
+    "labelDeltas": [ 0, 0 ]
   },
   "hol": {
     "name": "Holland",
     "supply-type": "supply",
     "region": "benelus",
-    "coordinates": [ [ [ 6, 7 ], [ 8, 7 ], [ 8, 8 ], [ 6, 8 ], [ 6, 7 ] ] ]
+    "coordinates": [ [ [ 6, 7 ], [ 8, 7 ], [ 8, 8 ], [ 6, 8 ], [ 6, 7 ] ] ],
+    "labelDeltas": [ 0, 0 ]
   },
   "nwy": {
     "name": "Norway",
     "supply-type": "supply",
     "region": "scandinavia",
-    "coordinates": [ [ [ 9, 3 ], [ 20, 3 ], [ 20, 4 ], [ 9, 4 ], [ 9, 3 ] ] ]
+    "coordinates": [ [ [ 9, 3 ], [ 20, 3 ], [ 20, 4 ], [ 9, 4 ], [ 9, 3 ] ] ],
+    "labelDeltas": [ 0, 0 ]
   },
   "naf": {
     "name": "North Africa",
     "supply-type": "land",
     "region": "africa",
-    "coordinates": [ [ [ 0, 19 ], [ 3, 19 ], [ 3, 21 ], [ 0, 21 ], [ 0, 19 ] ] ]
+    "coordinates": [ [ [ 0, 19 ], [ 3, 19 ], [ 3, 21 ], [ 0, 21 ], [ 0, 19 ] ] ],
+    "labelDeltas": [ 0, 0 ]
   },
   "por": {
     "name": "Portugal",
     "supply-type": "supply",
     "region": "",
-    "coordinates": [ [ [ 2, 13 ], [ 3, 13 ], [ 3, 15 ], [ 2, 15 ], [ 2, 13 ] ] ]
+    "coordinates": [ [ [ 2, 13 ], [ 3, 13 ], [ 3, 15 ], [ 2, 15 ], [ 2, 13 ] ] ],
+    "labelDeltas": [ 0, 0 ]
   },
   "rum": {
     "name": "Rumania",
     "supply-type": "supply",
     "region": "iberia",
-    "coordinates": [ [ [ 15, 12 ], [ 18, 12 ], [ 18, 15 ], [ 15, 15 ], [ 15, 12 ] ] ]
+    "coordinates": [ [ [ 15, 12 ], [ 18, 12 ], [ 18, 15 ], [ 15, 15 ], [ 15, 12 ] ] ],
+    "labelDeltas": [ 0, 0 ]
   },
   "ser": {
     "name": "Serbia",
     "supply-type": "supply",
     "region": "balkans",
-    "coordinates": [ [ [ 12, 14 ], [ 15, 14 ], [ 15, 16 ], [ 12, 16 ], [ 12, 14 ] ] ]
+    "coordinates": [ [ [ 12, 14 ], [ 15, 14 ], [ 15, 16 ], [ 12, 16 ], [ 12, 14 ] ] ],
+    "labelDeltas": [ 0, 0 ]
   },
   "spa": {
     "name": "Spain",
     "supply-type": "supply",
     "region": "iberia",
-    "coordinates": [ [ [ 3, 12 ], [ 4, 12 ], [ 4, 16 ], [ 3, 16 ], [ 3, 12 ] ] ]
+    "coordinates": [ [ [ 3, 12 ], [ 4, 12 ], [ 4, 16 ], [ 3, 16 ], [ 3, 12 ] ] ],
+    "labelDeltas": [ 0, 0 ]
   },
   "swe": {
     "name": "Sweden",
     "supply-type": "supply",
     "region": "scandinavia",
-    "coordinates": [ [ [ 10, 4 ], [ 16, 4 ], [ 16, 6 ], [ 10, 6 ], [ 10, 4 ] ] ]
+    "coordinates": [ [ [ 10, 4 ], [ 16, 4 ], [ 16, 6 ], [ 10, 6 ], [ 10, 4 ] ] ],
+    "labelDeltas": [ 0, 0 ]
   },
   "tun": {
     "name": "Tunis",
     "supply-type": "supply",
     "region": "africa",
-    "coordinates": [ [ [ 3, 19 ], [ 5, 19 ], [ 5, 21 ], [ 3, 21 ], [ 3, 19 ] ] ]
+    "coordinates": [ [ [ 3, 19 ], [ 5, 19 ], [ 5, 21 ], [ 3, 21 ], [ 3, 19 ] ] ],
+    "labelDeltas": [ 0, 0 ]
   },
 
   "adr": {
     "name": "Adriatic Sea",
     "supply-type": "water",
     "region": "water",
-    "coordinates": [ [ [ 9, 16 ], [ 11, 16 ], [ 11, 17 ], [ 9, 17 ], [ 9, 16 ] ] ]
+    "coordinates": [ [ [ 9, 16 ], [ 11, 16 ], [ 11, 17 ], [ 9, 17 ], [ 9, 16 ] ] ],
+    "labelDeltas": [ 0, 0 ]
   },
   "aeg": {
     "name": "Aegean Sea",
     "supply-type": "water",
     "region": "water",
-    "coordinates": [ [ [ 14, 18 ], [ 18, 18 ], [ 18, 19 ], [ 19, 19 ], [ 19, 20 ], [ 14, 20 ], [ 14, 18 ] ] ]
+    "coordinates": [ [ [ 14, 18 ], [ 18, 18 ], [ 18, 19 ], [ 19, 19 ], [ 19, 20 ], [ 14, 20 ], [ 14, 18 ] ] ],
+    "labelDeltas": [ 0, 0 ]
   },
   "bal": {
     "name": "Baltic Sea",
     "supply-type": "water",
     "region": "water",
-    "coordinates": [ [ [ 10, 6 ], [ 15, 6 ], [ 15, 8 ], [ 10, 8 ], [ 10, 6 ] ] ]
+    "coordinates": [ [ [ 10, 6 ], [ 15, 6 ], [ 15, 8 ], [ 10, 8 ], [ 10, 6 ] ] ],
+    "labelDeltas": [ 0, 0 ]
   },
   "bar": {
     "name": "Barents Sea",
     "supply-type": "water",
     "region": "water",
-    "coordinates": [ [ [ 11, 0 ], [ 21, 0 ], [ 21, 3 ], [ 11, 3 ], [ 11, 0 ] ] ]
+    "coordinates": [ [ [ 11, 0 ], [ 21, 0 ], [ 21, 3 ], [ 11, 3 ], [ 11, 0 ] ] ],
+    "labelDeltas": [ 0, 0 ]
   },
   "bla": {
     "name": "Black Sea",
     "supply-type": "water",
     "region": "water",
-    "coordinates": [ [ [ 18, 12 ], [ 20, 12 ], [ 20, 16 ], [ 18, 16 ], [ 18, 12 ] ] ]
+    "coordinates": [ [ [ 18, 12 ], [ 20, 12 ], [ 20, 16 ], [ 18, 16 ], [ 18, 12 ] ] ],
+    "labelDeltas": [ 0, 0 ]
   },
   "eas": {
     "name": "Eastern Mediterranean",
     "supply-type": "water",
     "region": "water",
-    "coordinates": [ [ [ 14, 20 ], [ 20, 20 ], [ 20, 21 ], [ 14, 21], [ 14, 20 ] ] ]
+    "coordinates": [ [ [ 14, 20 ], [ 20, 20 ], [ 20, 21 ], [ 14, 21], [ 14, 20 ] ] ],
+    "labelDeltas": [ 0, 0 ]
   },
   "eng": {
     "name": "English Channel",
     "supply-type": "water",
     "region": "water",
-    "coordinates": [ [ [ 1, 6 ], [ 5, 6 ], [ 5, 8 ], [ 1, 8 ], [ 1, 6 ] ] ]
+    "coordinates": [ [ [ 1, 6 ], [ 5, 6 ], [ 5, 8 ], [ 1, 8 ], [ 1, 6 ] ] ],
+    "labelDeltas": [ 0, 0 ]
   },
   "bot": {
     "name": "Gulf of Bothnia",
     "supply-type": "water",
     "region": "water",
-    "coordinates": [ [ [ 15, 6 ], [ 20, 6 ], [ 20, 8 ], [ 15, 8 ], [ 15, 6 ] ] ]
+    "coordinates": [ [ [ 15, 6 ], [ 20, 6 ], [ 20, 8 ], [ 15, 8 ], [ 15, 6 ] ] ],
+    "labelDeltas": [ 0, 0 ]
   },
   "gol": {
     "name": "Gulf of Lyon",
     "supply-type": "water",
     "region": "water",
-    "coordinates": [ [ [ 4, 14 ], [ 5, 14 ], [ 5, 17 ], [ 4, 17 ], [ 4, 14 ] ] ]
+    "coordinates": [ [ [ 4, 14 ], [ 5, 14 ], [ 5, 17 ], [ 4, 17 ], [ 4, 14 ] ] ],
+    "labelDeltas": [ 0, 0 ]
   },
   "hel": {
     "name": "Helogland Bight",
     "supply-type": "water",
     "region": "water",
-    "coordinates": [ [ [ 8, 6 ], [ 9, 6 ], [ 9, 8 ], [ 8, 8 ], [ 8, 6 ] ] ]
+    "coordinates": [ [ [ 8, 6 ], [ 9, 6 ], [ 9, 8 ], [ 8, 8 ], [ 8, 6 ] ] ],
+    "labelDeltas": [ 0, 0 ]
   },
   "ion": {
     "name": "Ionian Sea",
     "supply-type": "water",
     "region": "water",
-    "coordinates": [ [ [ 5, 20 ], [ 10, 20 ], [ 10, 17 ], [ 13, 17 ], [ 13, 18 ], [ 14, 18 ], [ 14, 21 ], [ 5, 21 ], [ 5, 20 ] ] ]
+    "coordinates": [ [ [ 5, 20 ], [ 10, 20 ], [ 10, 17 ], [ 13, 17 ], [ 13, 18 ], [ 14, 18 ], [ 14, 21 ], [ 5, 21 ], [ 5, 20 ] ] ],
+    "labelDeltas": [ 0, 0 ]
   },
   "iri": {
     "name": "Irish Sea",
     "supply-type": "water",
     "region": "water",
-    "coordinates": [ [ [ 1, 3 ], [ 3, 3 ], [ 3, 6 ], [ 1, 6 ], [ 1, 3 ] ] ]
+    "coordinates": [ [ [ 1, 3 ], [ 3, 3 ], [ 3, 6 ], [ 1, 6 ], [ 1, 3 ] ] ],
+    "labelDeltas": [ 0, 0 ]
   },
   "mid": {
     "name": "Mid-Atlantic Ocean",
     "supply-type": "water",
     "region": "water",
-    "coordinates": [ [ [ 0, 3 ], [ 1, 3 ], [ 1, 12 ], [ 3, 12 ], [ 3, 13 ], [ 2, 13 ], [ 2, 15 ], [ 3, 15 ], [ 3, 16 ], [ 1, 16 ], [ 1, 19 ], [ 0, 19 ], [ 0, 3 ] ] ]
+    "coordinates": [ [ [ 0, 3 ], [ 1, 3 ], [ 1, 12 ], [ 3, 12 ], [ 3, 13 ], [ 2, 13 ], [ 2, 15 ], [ 3, 15 ], [ 3, 16 ], [ 1, 16 ], [ 1, 19 ], [ 0, 19 ], [ 0, 3 ] ] ],
+    "labelDeltas": [ 0, 0 ]
   },
   "nat": {
     "name": "North Atlantic Ocean",
     "supply-type": "water",
     "region": "water",
-    "coordinates": [ [ [ 0, 0 ], [ 3, 0 ], [ 3, 1 ], [ 2, 1 ], [ 2, 2 ], [ 3, 2 ], [ 3, 3 ], [ 0, 3 ], [ 0, 0 ] ] ]
+    "coordinates": [ [ [ 0, 0 ], [ 3, 0 ], [ 3, 1 ], [ 2, 1 ], [ 2, 2 ], [ 3, 2 ], [ 3, 3 ], [ 0, 3 ], [ 0, 0 ] ] ],
+    "labelDeltas": [ 0, 0 ]
   },
   "nth": {
     "name": "North Sea",
     "supply-type": "water",
     "region": "water",
-    "coordinates": [ [ [ 5, 1 ], [ 9, 1 ], [ 9, 4 ], [ 8, 4 ], [ 8, 5 ], [ 9, 5 ], [ 9, 6 ], [ 8, 6 ], [ 8, 7 ], [ 5, 7 ], [ 5, 6 ], [ 6, 6 ], [ 6, 5 ], [ 5, 5 ], [ 5, 1 ] ] ]
+    "coordinates": [ [ [ 5, 1 ], [ 9, 1 ], [ 9, 4 ], [ 8, 4 ], [ 8, 5 ], [ 9, 5 ], [ 9, 6 ], [ 8, 6 ], [ 8, 7 ], [ 5, 7 ], [ 5, 6 ], [ 6, 6 ], [ 6, 5 ], [ 5, 5 ], [ 5, 1 ] ] ],
+    "labelDeltas": [ 0, 0 ]
   },
   "nrg": {
     "name": "Norwegian Sea",
     "supply-type": "water",
     "region": "water",
-    "coordinates": [ [ [ 3, 0 ], [ 11, 0 ], [11, 3 ], [ 9, 3 ], [ 9, 1 ], [ 3, 1 ], [ 3, 0 ] ] ]
+    "coordinates": [ [ [ 3, 0 ], [ 11, 0 ], [11, 3 ], [ 9, 3 ], [ 9, 1 ], [ 3, 1 ], [ 3, 0 ] ] ],
+    "labelDeltas": [ 0, 0 ]
   },
   "ska": {
     "name": "Skagerrak",
     "supply-type": "water",
     "region": "water",
-    "coordinates": [ [ [ 8, 4 ], [ 10, 4 ], [ 10, 5 ], [ 8, 5 ], [ 8, 4 ] ] ]
+    "coordinates": [ [ [ 8, 4 ], [ 10, 4 ], [ 10, 5 ], [ 8, 5 ], [ 8, 4 ] ] ],
+    "labelDeltas": [ 0, 0 ]
   },
   "tyn": {
     "name": "Tyrrhenian Sea",
     "supply-type": "water",
     "region": "water",
-    "coordinates": [ [ [ 4, 17 ], [ 5, 17 ], [ 5, 18 ], [ 7, 18 ], [ 7, 20 ], [ 5, 20 ], [ 5, 19 ], [ 4, 19], [ 4, 17 ] ] ]
+    "coordinates": [ [ [ 4, 17 ], [ 5, 17 ], [ 5, 18 ], [ 7, 18 ], [ 7, 20 ], [ 5, 20 ], [ 5, 19 ], [ 4, 19], [ 4, 17 ] ] ],
+    "labelDeltas": [ 0, 0 ]
   },
   "wes": {
     "name": "Western Mediterranean",
     "supply-type": "water",
     "region": "water",
-    "coordinates": [ [ [ 1, 16 ], [ 4, 16 ], [ 4, 19 ], [ 1, 19 ], [ 1, 16 ] ] ]
+    "coordinates": [ [ [ 1, 16 ], [ 4, 16 ], [ 4, 19 ], [ 1, 19 ], [ 1, 16 ] ] ],
+    "labelDeltas": [ 0, 0 ]
   },
 
   "swz": {
     "name": "Switzerland",
     "supply-type": "unpassable",
     "region": "unpassable",
-    "coordinates": [ [ [ 5, 11 ], [ 7, 11 ], [ 7, 12 ], [ 5, 12 ], [ 5, 11 ] ] ]
+    "coordinates": [ [ [ 5, 11 ], [ 7, 11 ], [ 7, 12 ], [ 5, 12 ], [ 5, 11 ] ] ],
+    "labelDeltas": [ 0, 0 ]
   }
 }

@@ -3,6 +3,7 @@ svg {
 }
 
 path {
+
   stroke: @content;
   fill: @secondary;
 
@@ -12,4 +13,19 @@ path {
   &.unpassable {
     fill: @content;
   }
+
+}
+
+.labels {
+
+  .wide {
+    writing-mode: tb-rl;
+    glyph-orientation-vertical: 0;
+  }
+
+  text {
+    text-anchor: middle;
+    dominant-baseline: middle;
+  }
+
 }
