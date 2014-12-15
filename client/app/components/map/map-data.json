@@ -154,14 +154,14 @@
     "supply-type": "land",
     "region": "germany",
     "coordinates": [ [ [ 13, 8 ], [ 14, 8 ], [ 14, 10 ], [ 13, 10 ], [ 13, 8 ] ] ],
-    "labelDeltas": [ 0, 0 ]
+    "labelDeltas": [ -0.1, -0.08 ]
   },
   "ruh": {
     "name": "Ruhr",
     "supply-type": "land",
     "region": "germany",
     "coordinates": [ [ [ 6, 8 ], [ 7, 8 ], [ 7, 10 ], [ 6, 10 ], [ 6, 8 ] ] ],
-    "labelDeltas": [ 0, 0 ]
+    "labelDeltas": [ -0.1, -0.08 ]
   },
   "sil": {
     "name": "Silesia",
@@ -197,21 +197,21 @@
     "supply-type": "italy",
     "region": "italy",
     "coordinates": [ [ [ 7, 17 ], [ 8, 17 ], [ 8, 19 ], [ 7, 19 ], [ 7, 17 ] ] ],
-    "labelDeltas": [ 0, 0 ]
+    "labelDeltas": [ -0.1, -0.08 ]
   },
   "tus": {
     "name": "Tuscany",
     "supply-type": "land",
     "region": "italy",
     "coordinates": [ [ [ 5, 15 ], [ 7, 15 ], [ 7, 18 ], [ 5, 18 ], [ 5, 15 ] ] ],
-    "labelDeltas": [ 0, 0 ]
+    "labelDeltas": [ 0, -0.08 ]
   },
   "ven": {
     "name": "Venice",
     "supply-type": "italy",
     "region": "italy",
     "coordinates": [ [ [ 7, 14 ], [ 9, 14 ], [ 9, 17 ], [ 7, 17 ], [ 7, 14 ] ] ],
-    "labelDeltas": [ 0, 0 ]
+    "labelDeltas": [ -0.1, -0.08 ]
   },
 
   "fin": {
@@ -269,28 +269,28 @@
     "supply-type": "turkey",
     "region": "turkey",
     "coordinates": [ [ [ 19, 16 ], [ 20,16 ], [ 20, 18 ], [ 19, 18 ], [ 19, 16 ] ] ],
-    "labelDeltas": [ 0, 0 ]
+    "labelDeltas": [ -0.1, -0.08 ]
   },
   "arm": {
     "name": "Armenia",
     "supply-type": "land",
     "region": "turkey",
     "coordinates": [ [ [ 20, 12 ], [ 21, 12 ], [ 21, 19 ], [ 20, 19 ], [ 20, 12 ] ] ],
-    "labelDeltas": [ 0, 0 ]
+    "labelDeltas": [ -0.1, 0 ]
   },
   "con": {
     "name": "Constantinople",
     "supply-type": "turkey",
     "region": "turkey",
     "coordinates": [ [ [ 18, 16 ], [ 19, 16 ], [ 19, 19 ], [ 18, 19 ], [ 18, 16 ] ] ],
-    "labelDeltas": [ 0, 0 ]
+    "labelDeltas": [ -0.1, -0.08 ]
   },
   "smy": {
     "name": "Smyrna",
     "supply-type": "turkey",
     "region": "turkey",
     "coordinates": [ [ [ 19, 18 ], [ 20, 18 ], [ 20, 20 ], [ 19, 20 ], [ 19, 18 ] ] ],
-    "labelDeltas": [ 0, 0 ]
+    "labelDeltas": [ -0.1, -0.08 ]
   },
   "syr": {
     "name": "Syria",
@@ -312,7 +312,7 @@
     "supply-type": "supply",
     "region": "benelus",
     "coordinates": [ [ [ 5, 7 ], [ 6, 7 ], [ 6, 9 ], [ 5, 9 ], [ 5, 7 ] ] ],
-    "labelDeltas": [ 0, 0 ]
+    "labelDeltas": [ -0.1, 0 ]
   },
   "bul": {
     "name": "Bulgaria",
@@ -326,7 +326,7 @@
     "supply-type": "supply",
     "region": "scandinavia",
     "coordinates": [ [ [ 9, 5 ], [ 10, 5 ], [ 10, 8 ], [ 9, 8 ], [ 9, 5 ] ] ],
-    "labelDeltas": [ 0, 0 ]
+    "labelDeltas": [ -0.1, -0.08 ]
   },
   "gre": {
     "name": "Greece",
@@ -361,7 +361,7 @@
     "supply-type": "supply",
     "region": "",
     "coordinates": [ [ [ 2, 13 ], [ 3, 13 ], [ 3, 15 ], [ 2, 15 ], [ 2, 13 ] ] ],
-    "labelDeltas": [ 0, 0 ]
+    "labelDeltas": [ -0.1, -0.08 ]
   },
   "rum": {
     "name": "Rumania",
@@ -382,7 +382,7 @@
     "supply-type": "supply",
     "region": "iberia",
     "coordinates": [ [ [ 3, 12 ], [ 4, 12 ], [ 4, 16 ], [ 3, 16 ], [ 3, 12 ] ] ],
-    "labelDeltas": [ 0, 0 ]
+    "labelDeltas": [ -0.1, -0.08 ]
   },
   "swe": {
     "name": "Sweden",
@@ -460,21 +460,21 @@
     "supply-type": "water",
     "region": "water",
     "coordinates": [ [ [ 4, 14 ], [ 5, 14 ], [ 5, 17 ], [ 4, 17 ], [ 4, 14 ] ] ],
-    "labelDeltas": [ 0, 0 ]
+    "labelDeltas": [ -0.1, -0.08 ]
   },
   "hel": {
     "name": "Helogland Bight",
     "supply-type": "water",
     "region": "water",
     "coordinates": [ [ [ 8, 6 ], [ 9, 6 ], [ 9, 8 ], [ 8, 8 ], [ 8, 6 ] ] ],
-    "labelDeltas": [ 0, 0 ]
+    "labelDeltas": [ 0, 0.02 ]
   },
   "ion": {
     "name": "Ionian Sea",
     "supply-type": "water",
     "region": "water",
     "coordinates": [ [ [ 5, 20 ], [ 10, 20 ], [ 10, 17 ], [ 13, 17 ], [ 13, 18 ], [ 14, 18 ], [ 14, 21 ], [ 5, 21 ], [ 5, 20 ] ] ],
-    "labelDeltas": [ 0, 0 ]
+    "labelDeltas": [ 1, -0.2 ]
   },
   "iri": {
     "name": "Irish Sea",
@@ -488,14 +488,14 @@
     "supply-type": "water",
     "region": "water",
     "coordinates": [ [ [ 0, 3 ], [ 1, 3 ], [ 1, 12 ], [ 3, 12 ], [ 3, 13 ], [ 2, 13 ], [ 2, 15 ], [ 3, 15 ], [ 3, 16 ], [ 1, 16 ], [ 1, 19 ], [ 0, 19 ], [ 0, 3 ] ] ],
-    "labelDeltas": [ 0, 0 ]
+    "labelDeltas": [ 0.2, 2 ]
   },
   "nat": {
     "name": "North Atlantic Ocean",
     "supply-type": "water",
     "region": "water",
     "coordinates": [ [ [ 0, 0 ], [ 3, 0 ], [ 3, 1 ], [ 2, 1 ], [ 2, 2 ], [ 3, 2 ], [ 3, 3 ], [ 0, 3 ], [ 0, 0 ] ] ],
-    "labelDeltas": [ 0, 0 ]
+    "labelDeltas": [ -0.3, 0 ]
   },
   "nth": {
     "name": "North Sea",
@@ -509,7 +509,7 @@
     "supply-type": "water",
     "region": "water",
     "coordinates": [ [ [ 3, 0 ], [ 11, 0 ], [11, 3 ], [ 9, 3 ], [ 9, 1 ], [ 3, 1 ], [ 3, 0 ] ] ],
-    "labelDeltas": [ 0, 0 ]
+    "labelDeltas": [ 0, -0.45 ]
   },
   "ska": {
     "name": "Skagerrak",

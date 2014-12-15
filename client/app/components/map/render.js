@@ -40,13 +40,13 @@ d3.json( '/app/components/map/map-data.json', function( err, rawBoard ) {
 
     labelX = function( prov ) {
       return (
-        prov.labelDeltas[ 0 ] * columns +
+        prov.labelDeltas[ 0 ] * scale +
         R.head( path.centroid( prov ) )
       );
     },
     labelY = function( prov ) {
       return (
-        prov.labelDeltas[ 1 ] * rows +
+        prov.labelDeltas[ 1 ] * scale +
         prov.labelDeltas[ 1 ] + R.nth( 1, path.centroid( prov ) )
       );
     },
