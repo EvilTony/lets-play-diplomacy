@@ -215,7 +215,7 @@
   },
 
   "fin": {
-    "name": "Finaland",
+    "name": "Finland",
     "supply-type": "land",
     "region": "russia",
     "coordinates": [ [ [ 16, 4 ], [ 20, 4 ], [ 20, 6 ], [ 16, 6 ], [ 16, 4 ] ] ],
