@@ -1,7 +1,9 @@
 Lets-Play-Diplomacy
 ===================
 
-This is a diplomacy app. If you don't like it complain to me.
+### This is no longer under development and is abandoned. It is here simpily for an archive. If you find it useful say thanks.
+
+This is an  diplomacy app. If you don't like it complain to me.
 
 Getting Started
 ---------------
